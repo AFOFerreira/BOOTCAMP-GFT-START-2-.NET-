@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2-Series\\2-Series.csproj": {}
+    "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2- Series\\2-Series.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2-Series\\2-Series.csproj": {
+    "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2- Series\\2-Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2-Series\\2-Series.csproj",
+        "projectUniqueName": "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2- Series\\2-Series.csproj",
         "projectName": "2-Series",
-        "projectPath": "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2-Series\\2-Series.csproj",
+        "projectPath": "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2- Series\\2-Series.csproj",
         "packagesPath": "C:\\Users\\desen\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2-Series\\obj\\",
+        "outputPath": "D:\\Documentos\\GIT\\DIO\\BOOTCAMP-GFT-START\\2- Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\desen\\AppData\\Roaming\\NuGet\\NuGet.Config"

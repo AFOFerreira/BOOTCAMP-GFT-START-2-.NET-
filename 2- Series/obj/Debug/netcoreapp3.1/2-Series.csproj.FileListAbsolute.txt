@@ -1,0 +1,13 @@
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\bin\Debug\netcoreapp3.1\2-Series.exe
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\bin\Debug\netcoreapp3.1\2-Series.deps.json
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\bin\Debug\netcoreapp3.1\2-Series.runtimeconfig.json
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\bin\Debug\netcoreapp3.1\2-Series.runtimeconfig.dev.json
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\bin\Debug\netcoreapp3.1\2-Series.dll
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\bin\Debug\netcoreapp3.1\2-Series.pdb
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.csprojAssemblyReference.cache
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.AssemblyInfoInputs.cache
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.AssemblyInfo.cs
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.csproj.CoreCompileInputs.cache
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.dll
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.pdb
+D:\Documentos\GIT\DIO\BOOTCAMP-GFT-START\2- Series\obj\Debug\netcoreapp3.1\2-Series.genruntimeconfig.cache
