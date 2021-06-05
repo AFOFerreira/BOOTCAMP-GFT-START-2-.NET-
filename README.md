@@ -11,7 +11,7 @@
 1. **:page_facing_up: Revisão:** Um projeto simples cujo o objetivo é ter um gerenciamento das notas dos alunos. Desenvolvido em c#, com os armazenamento  dos alunos em um array simples. usa uma classe struct para mapeamento dos alunos na memória. Podemos utilizar as seguintes funções:  
    - :arrow_right:*Adicionar alunos;*
    - :arrow_right:*Listar os alunos cadastrados;*
-   - :arrow_right:*​Calcular uma média geral dos alunos, bem como os respectivos conceitos;*​ 
+   - :arrow_right:*Calcular uma média geral dos alunos, bem como os respectivos conceitos;* 
 
 
 
