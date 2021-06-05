@@ -13,7 +13,7 @@
    - :arrow_right:*Listar os alunos cadastrados;*
    - :arrow_right:*Calcular uma média geral dos alunos, bem como os respectivos conceitos;* 
 
-2. **:page_facing_up:Series: **Um sistema de gerenciamento de series simples, desenvolvido em c# e utilizado conceitos de orientação a objetos, como herança, encapsulamento e polimorfismo, foi utilizado também enumerators e interfaces. Podemos utilizar as seguintes funções:
+2. **:page_facing_up:Series:** Um sistema de gerenciamento de series simples, desenvolvido em c# e utilizado conceitos de orientação a objetos, como herança, encapsulamento e polimorfismo, foi utilizado também enumerators e interfaces. Podemos utilizar as seguintes funções:
    - :arrow_right: Adicionar series;
    - :arrow_right: Listar series;
    - :arrow_right:Atualizar series cadastradas;
